@@ -1,0 +1,7 @@
+O GitHub foi criado em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. A plataforma surgiu como uma maneira de facilitar o uso do Git, um sistema de controle de versão desenvolvido por Linus Torvalds em 2005 para gerenciar o código do Linux.
+
+Antes do GitHub, os desenvolvedores usavam ferramentas como Subversion e CVS, que tinham suas limitações em termos de colaboração e compartilhamento de código. O Git, por ser distribuído, permitiu uma abordagem mais flexível, mas ainda havia uma necessidade de uma interface amigável e um local centralizado para hospedar repositórios.
+
+O GitHub atendeu a essa necessidade, permitindo que desenvolvedores colaborassem facilmente em projetos, compartilhassem código e contribuíssem para projetos de código aberto. Com o tempo, a plataforma cresceu, incorporando recursos como issues, pull requests e uma rede social para desenvolvedores, tornando-se um dos principais hubs de desenvolvimento de software no mundo.
+
+Em 2018, o GitHub foi adquirido pela Microsoft, o que solidificou ainda mais sua importância na comunidade de desenvolvedores. Hoje, é um dos locais mais populares para hospedagem de projetos de software, contribuindo significativamente para a cultura de código aberto e colaboração entre desenvolvedores
